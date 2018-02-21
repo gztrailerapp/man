@@ -1,5 +1,3 @@
 # Manualer
 
-## Innehåll
-
 [Transportskadeapp](./tsapp/)
