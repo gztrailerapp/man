@@ -2,4 +2,4 @@
 
 ## Innehåll
 
-[Transportskadeapp](./clab/)
+[Transportskadeapp](./tsapp/)
