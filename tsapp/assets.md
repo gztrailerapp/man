@@ -5,7 +5,7 @@ För att kunna rapportera besiktningar på en asset/tillgång (trailers) måste 
 ![assets](./media/assets-search.png)
 
 
-## Skapa ny asset/tillgång
+## Skapa ny tillgång/trailer
 
 Välj 'Create New Asset' för att skapa en ny asset/tillgång.
 
@@ -16,7 +16,7 @@ Välj 'Create New Asset' för att skapa en ny asset/tillgång.
 Se editera asset/tillgång nedan för ett exempel på en asset/tillgång.
 
 
-## Editera asset/tillgång
+## Editera tillgång/trailer
 
 ![contacts](./media/assets-edit.png)
 
