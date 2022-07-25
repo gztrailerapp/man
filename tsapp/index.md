@@ -4,4 +4,4 @@
 
 [Assets/Tillgångar (trailers)](./assets.md)
 
-For support, send a mail to support@gizur.com. The app can be downloaded [here](http://www.gizur.com/app-release-unsigned.apk).
+Login to the portal [here](https://appserver03.gizur.com/applications/clab/trailer-app-portal/index.php) and download the mobile app [here](http://www.gizur.com/app-release-unsigned.apk). For support, please send a mail to support@gizur.com. 
